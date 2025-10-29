@@ -1,62 +1,158 @@
 {
   "days_read": [
-    "2024-06-02",
-    "2024-06-03",
-    "2024-06-04",
+    "2025-08-19",
+    "2025-08-20",
+    "2025-08-21",
+    "2025-08-22",
+    "2025-08-23",
+    "2025-08-24",
+    "2025-08-25",
+    "2025-08-26",
+    "2025-08-27",
+    "2025-08-29",
+    "2025-08-30",
+    "2025-09-01",
+    "2025-09-02",
+    "2025-09-03",
+    "2025-09-04",
+    "2025-09-07",
+    "2025-09-09",
+    "2025-09-13",
+    "2025-09-14",
+    "2025-09-15",
+    "2025-09-17",
+    "2025-09-18",
+    "2025-09-19",
+    "2025-09-23",
+    "2025-09-24",
+    "2025-09-25",
+    "2025-09-28",
+    "2025-10-06",
+    "2025-10-07",
+    "2025-10-08",
+    "2025-10-09",
+    "2025-10-10",
+    "2025-10-11",
+    "2025-10-14",
+    "2025-10-15",
+    "2025-10-16",
+    "2025-10-17",
+    "2025-10-20",
     "2025-10-21",
-    "2025-10-23",
-    "2025-10-24",
-    "2025-10-25",
+    "2025-10-22",
     "2025-10-26",
-    "2025-10-27",
     "2025-10-28"
   ],
   "current_daily_streak": {
-    "duration": 6,
+    "duration": 1,
     "readingMarketplace": 1,
     "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
+    "start": "2025-10-28T00:00:00.000Z",
     "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "ttl": 1761741705
   },
   "longest_daily_streak": {
-    "duration": 6,
+    "duration": 9,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-23T00:00:00.000Z",
-    "end": "2025-10-28T00:00:00.000Z"
+    "utcEndTime": "2025-08-27T07:00:00.000Z",
+    "start": "2025-08-19T00:00:00.000Z",
+    "end": "2025-08-27T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 2,
+    "duration": 11,
     "readingMarketplace": 1,
     "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
+    "start": "2025-08-19T00:00:00.000Z",
     "end": "2025-10-28T00:00:00.000Z",
-    "ttl": 1761700836
+    "ttl": 1761741705
   },
   "longest_weekly_streak": {
-    "duration": 2,
+    "duration": 11,
     "readingMarketplace": 1,
     "utcEndTime": "2025-10-28T07:00:00.000Z",
-    "start": "2025-10-21T00:00:00.000Z",
+    "start": "2025-08-19T00:00:00.000Z",
     "end": "2025-10-28T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "record_streak_broken",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
       {
-        "asin": "89B965055B1648CEA71827F9B02EF1D4",
-        "read_event_id": "3b37f66c-fa1b-484e-92b8-ab7a6fd5ee0f",
-        "date_read": "2024-06-04T15:51:42Z",
+        "asin": "E2E3C74D2A8A4709BC80E7CC3F1EDD0C",
+        "read_event_id": "9a9505d5-b413-4199-ae15-191795f0abfb",
+        "date_read": "2025-09-15T08:47:16-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
       },
       {
-        "asin": "F8FDD787C38F44A0A051C299191E8765",
-        "read_event_id": "904b4121-5a45-46d0-8e1b-f6dd7c820ed0",
-        "date_read": "2024-06-04T07:05:45Z",
+        "asin": "U3STBGYY3ZLXY732GIQHABJ4APQNUTW3",
+        "read_event_id": "2439239c-7185-4284-a724-4d43896edd9e",
+        "date_read": "2025-09-09T20:16:21-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "968FDCC237984731B6D5939560118C90",
+        "read_event_id": "09157a95-bd00-4ce3-a322-0342b150fbe9",
+        "date_read": "2025-09-07T11:38:33-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "PLIPXTM6FYIBEJZANPRFCEAT5C2YF6AG",
+        "read_event_id": "02230709-c2b1-407b-bd51-1706ee18ee83",
+        "date_read": "2025-08-29T13:47:02-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "IGMR5BWCRHKVOQKSDUJ2A6RQEERR24VE",
+        "read_event_id": "64e3d84a-2693-431a-9cd6-d6eab2659ef3",
+        "date_read": "2025-08-24T13:19:14-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DKYUJSKT2Q3SB7XAJZCT5FU6QB5F3VI3",
+        "read_event_id": "2ef37b1f-d0fe-416f-9957-b50d8ae8e547",
+        "date_read": "2025-08-23T09:11:39-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DSV3MED4P5MKZ3GYKV5WSO5YCJQRHEHQ",
+        "read_event_id": "5637304e-0556-4e6a-a568-893219081b68",
+        "date_read": "2025-08-22T05:27:30-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "E3QF3M54YGNBS3GATVZKM4YRG2T6ZTFR",
+        "read_event_id": "15bdecfd-6e0d-4395-89cf-fc5ccb571c67",
+        "date_read": "2025-08-21T10:13:13-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "PYRADLYDLEX57DAZUEIPZI7NWZREGVRE",
+        "read_event_id": "c3731bda-24be-49f7-8802-b67263ff5eff",
+        "date_read": "2025-08-20T10:04:59-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "DD3EF659941F41CEA562ADF19FEACBF9",
+        "read_event_id": "e962b103-e15c-47b3-9fc1-7f51f21ee068",
+        "date_read": "2025-08-19T06:04:20-07:00",
         "content_type": "PDOC",
         "source_origin": "KINDLE",
         "book_uri": "UNKNOWN"
@@ -67,16 +163,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 64,
+    "daysLeftInCurrentChallenge": 63,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_BronzeReader_2ad3545a-52d9-3c3c-9fdd-c935e4a94744.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Bronze Reader",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
