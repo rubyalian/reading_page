@@ -53,15 +53,16 @@
     "2025-12-22",
     "2025-12-27",
     "2025-12-28",
-    "2025-12-29"
+    "2025-12-29",
+    "2025-12-31"
   ],
   "current_daily_streak": {
-    "duration": 3,
+    "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-29T08:00:00.000Z",
-    "start": "2025-12-27T00:00:00.000Z",
-    "end": "2025-12-29T00:00:00.000Z",
-    "ttl": 1767142000
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
+    "start": "2025-12-31T00:00:00.000Z",
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767228807
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -73,10 +74,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-29T08:00:00.000Z",
+    "utcEndTime": "2025-12-31T08:00:00.000Z",
     "start": "2025-12-22T00:00:00.000Z",
-    "end": "2025-12-29T00:00:00.000Z",
-    "ttl": 1767142000
+    "end": "2025-12-31T00:00:00.000Z",
+    "ttl": 1767228807
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -184,16 +185,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 1,
+    "daysLeftInCurrentChallenge": 0,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 4,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
-        "quantity": 3,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_WinterVacation_714804ca-78ac-4173-9d6d-26b998193f2d.png",
+        "quantity": 1,
+        "title": "Winter Vacation",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
