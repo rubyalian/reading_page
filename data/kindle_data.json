@@ -54,15 +54,16 @@
     "2025-12-27",
     "2025-12-28",
     "2025-12-29",
-    "2025-12-31"
+    "2025-12-31",
+    "2026-01-01"
   ],
   "current_daily_streak": {
-    "duration": 1,
+    "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-31T08:00:00.000Z",
+    "utcEndTime": "2026-01-01T08:00:00.000Z",
     "start": "2025-12-31T00:00:00.000Z",
-    "end": "2025-12-31T00:00:00.000Z",
-    "ttl": 1767228807
+    "end": "2026-01-01T00:00:00.000Z",
+    "ttl": 1767314815
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -74,10 +75,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-12-31T08:00:00.000Z",
+    "utcEndTime": "2026-01-01T08:00:00.000Z",
     "start": "2025-12-22T00:00:00.000Z",
-    "end": "2025-12-31T00:00:00.000Z",
-    "ttl": 1767228807
+    "end": "2026-01-01T00:00:00.000Z",
+    "ttl": 1767314815
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -90,6 +91,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "2583E03ED4B84797AFA3B7E7C0021522",
+        "read_event_id": "a7550a0c-4cda-484e-ae11-9ce594ca005d",
+        "date_read": "2026-01-01T08:45:19-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "LSECD3D2EU7VSF4N2Z2HDB7YIQ6PKZUF",
         "read_event_id": "6a002977-4d1e-4c02-bc62-d66125c0290f",
@@ -185,33 +194,33 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 0,
+    "daysLeftInCurrentChallenge": 89,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 5,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_WinterVacation_714804ca-78ac-4173-9d6d-26b998193f2d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
         "quantity": 1,
-        "title": "Winter Vacation",
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
         "quantity": 0,
         "title": "Gold Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_SilverReader_21fe19f7-5807-3fb7-a491-c14e7a519764.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_SilverReader_82641bcd-f5b6-3ac6-8f24-ebd06ca64066.png",
         "quantity": 0,
         "title": "Silver Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bibliophile_6b75e39a-c235-379a-bb31-7de2b60acb90.png",
         "quantity": 0,
         "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
