@@ -56,10 +56,17 @@
     "2025-12-29",
     "2025-12-31",
     "2026-01-01",
-    "2026-01-07"
+    "2026-01-07",
+    "2026-01-09",
+    "2026-01-10"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
+    "start": "2026-01-09T00:00:00.000Z",
+    "end": "2026-01-10T00:00:00.000Z",
+    "ttl": 1768092780
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -71,10 +78,10 @@
   "current_weekly_streak": {
     "duration": 3,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-07T08:00:00.000Z",
+    "utcEndTime": "2026-01-10T08:00:00.000Z",
     "start": "2025-12-22T00:00:00.000Z",
-    "end": "2026-01-07T00:00:00.000Z",
-    "ttl": 1768005933
+    "end": "2026-01-10T00:00:00.000Z",
+    "ttl": 1768092780
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -87,6 +94,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "72BCD1D668804079AC6B64C78A7AA5AF",
+        "read_event_id": "7738c5f1-f7e7-4b98-a426-b62ab5761834",
+        "date_read": "2026-01-09T22:38:46-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "2583E03ED4B84797AFA3B7E7C0021522",
         "read_event_id": "a7550a0c-4cda-484e-ae11-9ce594ca005d",
@@ -190,16 +205,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 81,
+    "daysLeftInCurrentChallenge": 80,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookworm_50bad16e-c23b-3f36-af72-4fe0a33286c3.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
