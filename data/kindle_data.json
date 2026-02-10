@@ -62,10 +62,16 @@
     "2026-01-11",
     "2026-01-13",
     "2026-01-22",
-    "2026-01-23"
+    "2026-01-23",
+    "2026-02-09"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-09T08:00:00.000Z",
+    "start": "2026-02-09T00:00:00.000Z",
+    "end": "2026-02-09T00:00:00.000Z",
+    "ttl": 1770685777
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -75,7 +81,12 @@
     "end": "2025-08-27T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-09T08:00:00.000Z",
+    "start": "2026-02-09T00:00:00.000Z",
+    "end": "2026-02-09T00:00:00.000Z",
+    "ttl": 1770685777
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -84,7 +95,7 @@
     "start": "2025-08-19T00:00:00.000Z",
     "end": "2025-11-08T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -199,16 +210,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "C",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 51,
+    "daysLeftInCurrentChallenge": 50,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_Bookworm_50bad16e-c23b-3f36-af72-4fe0a33286c3.png",
-        "quantity": 1,
-        "title": "Bookworm",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
