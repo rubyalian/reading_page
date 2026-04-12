@@ -80,10 +80,16 @@
     "2026-04-03",
     "2026-04-04",
     "2026-04-07",
-    "2026-04-08"
+    "2026-04-08",
+    "2026-04-11"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-04-11T07:00:00.000Z",
+    "start": "2026-04-11T00:00:00.000Z",
+    "end": "2026-04-11T00:00:00.000Z",
+    "ttl": 1775956437
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -95,10 +101,10 @@
   "current_weekly_streak": {
     "duration": 2,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-04-08T07:00:00.000Z",
+    "utcEndTime": "2026-04-11T07:00:00.000Z",
     "start": "2026-03-30T00:00:00.000Z",
-    "end": "2026-04-08T00:00:00.000Z",
-    "ttl": 1775869552
+    "end": "2026-04-11T00:00:00.000Z",
+    "ttl": 1775956437
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -111,6 +117,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "C6SA5XG534QUSAME7LUAVW2URG5A7H4U",
+        "read_event_id": "81bc86c8-1812-4306-b762-a5cdddebfe9b",
+        "date_read": "2026-04-11T10:45:36-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "ACD7375C8A9D4189A91BEDE26C0924D4",
         "read_event_id": "1c20ac0f-a6c0-47c6-897c-5b50a45f8581",
@@ -230,14 +244,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 81,
+    "daysLeftInCurrentChallenge": 80,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_226234e6-a274-3f30-899e-73ffd2544be4.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookworm_20c80cc3-c3e0-37b0-be2d-646c1c73c4d5.png",
         "quantity": 1,
-        "title": "Bookish",
+        "title": "Bookworm",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
