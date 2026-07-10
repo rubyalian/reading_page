@@ -89,10 +89,16 @@
     "2026-05-11",
     "2026-05-16",
     "2026-06-13",
-    "2026-06-15"
+    "2026-06-15",
+    "2026-07-08"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-07-08T07:00:00.000Z",
+    "start": "2026-07-08T00:00:00.000Z",
+    "end": "2026-07-08T00:00:00.000Z",
+    "ttl": 1783646569
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -102,7 +108,12 @@
     "end": "2025-08-27T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-07-08T07:00:00.000Z",
+    "start": "2026-07-08T00:00:00.000Z",
+    "end": "2026-07-08T00:00:00.000Z",
+    "ttl": 1783646569
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -111,7 +122,7 @@
     "start": "2025-08-19T00:00:00.000Z",
     "end": "2025-11-08T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -273,10 +284,17 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 84,
+    "daysLeftInCurrentChallenge": 83,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
+        "quantity": 1,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
         "quantity": 0,
@@ -295,13 +313,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
         "quantity": 0,
         "title": "Bookish",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_e5f8b615-4174-376a-8942-e5284518e814.png",
-        "quantity": 0,
-        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
