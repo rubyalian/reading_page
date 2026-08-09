@@ -94,10 +94,17 @@
     "2026-07-09",
     "2026-07-20",
     "2026-07-22",
-    "2026-08-05"
+    "2026-08-05",
+    "2026-08-06",
+    "2026-08-08"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-08-08T07:00:00.000Z",
+    "start": "2026-08-08T00:00:00.000Z",
+    "end": "2026-08-08T00:00:00.000Z",
+    "ttl": 1786236014
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -109,10 +116,10 @@
   "current_weekly_streak": {
     "duration": 1,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-08-05T07:00:00.000Z",
+    "utcEndTime": "2026-08-08T07:00:00.000Z",
     "start": "2026-08-05T00:00:00.000Z",
-    "end": "2026-08-05T00:00:00.000Z",
-    "ttl": 1786149477
+    "end": "2026-08-08T00:00:00.000Z",
+    "ttl": 1786236014
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -125,6 +132,14 @@
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "457W4D5SPIP4FIGPGDJBXKZ5SL6NQNDI",
+        "read_event_id": "a6c3cf7b-b3de-4999-9583-c632719a6b88",
+        "date_read": "2026-08-08T01:10:34-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "B3S4KWYX2RE7EGCRLD4RBYX2XCCEPRYZ",
         "read_event_id": "23d3811b-b739-4fe6-b984-693c03312250",
@@ -283,16 +298,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 54,
+    "daysLeftInCurrentChallenge": 53,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 3,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_HeadStart_b8ece1b7-5ffd-34be-b59f-94b55b28286c.png",
-        "quantity": 2,
-        "title": "Head Start",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_DogDiaries_4099e082-dcb2-3703-98d3-4aa7824f8f5c.png",
+        "quantity": 1,
+        "title": "Dog Days",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
@@ -309,9 +324,9 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bookish_6101bf78-9757-3c5a-bf34-3f69b27aac0d.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_e5f8b615-4174-376a-8942-e5284518e814.png",
         "quantity": 0,
-        "title": "Bookish",
+        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
