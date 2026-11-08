@@ -101,10 +101,16 @@
     "2026-08-29",
     "2026-09-13",
     "2026-09-30",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-11-07"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-11-07T08:00:00.000Z",
+    "start": "2026-11-07T00:00:00.000Z",
+    "end": "2026-11-07T00:00:00.000Z",
+    "ttl": 1794106262
   },
   "longest_daily_streak": {
     "duration": 9,
@@ -114,7 +120,12 @@
     "end": "2025-08-27T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-11-07T08:00:00.000Z",
+    "start": "2026-11-07T00:00:00.000Z",
+    "end": "2026-11-07T00:00:00.000Z",
+    "ttl": 1794106262
   },
   "longest_weekly_streak": {
     "duration": 12,
@@ -123,7 +134,7 @@
     "start": "2025-08-19T00:00:00.000Z",
     "end": "2025-11-08T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -301,16 +312,16 @@
   "preferences": null,
   "urcGatingWeblabTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 55,
+    "daysLeftInCurrentChallenge": 54,
     "totalAvailableAchievements": 15,
     "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_Bookish_bb1dc97c-9e49-3ad0-9f48-8ca796879536.png",
-        "quantity": 1,
-        "title": "Bookish",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_HeadStart_cd65787c-fd83-3d0d-9dda-99be74a0da68.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026FallChallenge_GoldReader_ac8cd0df-960b-3141-8675-e87eac63b93f.png",
